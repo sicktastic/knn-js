@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@tensorflow-models/knn-classifier": "^1.2.4",
+    "@tensorflow/tfjs": "^4.6.0"
+  }
+}
